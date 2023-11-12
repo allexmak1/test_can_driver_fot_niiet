@@ -1,4 +1,4 @@
-# test_can_driver_fot_niiet
+# test_can_driver_for_niiet
 
 * Контроллер: NIIET K1921VK01T
 * Платформа: IAR Embeded 8.3
