@@ -1,0 +1,25 @@
+"--endian=little" 
+
+"--cpu=ARM7TDMI" 
+
+"--fpu=None" 
+
+"-p" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.1\arm\config\debugger\NIIET\ioK1921BK01T.ddf" 
+
+"--drv_verify_download" 
+
+"--semihosting" 
+
+"--device=Default" 
+
+"--drv_communication=USB0" 
+
+"--drv_interface_speed=auto" 
+
+"--jlink_initial_speed=1000" 
+
+
+
+
